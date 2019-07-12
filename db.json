@@ -1,0 +1,305 @@
+{
+  "scrappedData": [
+    {
+      "name": "Testing React Components: Complete Guide",
+      "title": "Mohammad Iqbal",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/photo-1562679817-2aac4f5581ec.jpg",
+      "link": "https://www.freecodecamp.org/news/testing-react-hooks/"
+    },
+    {
+      "name": "Still using Java in developing Android App? Start using Kotlin now!",
+      "title": "Pramono Winata",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/photo-1509803874385-db7c23652552.jpeg",
+      "link": "https://www.freecodecamp.org/news/still-using-java-for-android-development-you-should/"
+    },
+    {
+      "name": "How to Protocol Buffer Bluetooth Low Energy Service Part 3",
+      "title": "Jared Wolff",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/Protocol-Buffers-Part-2-2.jpg",
+      "link": "https://www.freecodecamp.org/news/how-to-protocol-buffer-bluetooth-low-energy-service-part-3/"
+    },
+    {
+      "name": "Landing My First Development Job - What a Crazy Journey!",
+      "title": "Jonathan Sexton",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/japheth-mast-Ls3yexjyRpk-unsplash-2.jpg",
+      "link": "https://www.freecodecamp.org/news/landing-my-first-development-job-what-a-crazy-journey/"
+    },
+    {
+      "name": "AWS and Elasticity: Keeping Ahead of User Demand",
+      "title": "David Clinton",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/DB.png",
+      "link": "https://www.freecodecamp.org/news/aws-and-elasticity-keeping-ahead-of-user-demand/"
+    },
+    {
+      "name": "How to make your first Pull Request on GitHub",
+      "title": "Flavio Copes",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/pr.png",
+      "link": "https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/"
+    },
+    {
+      "name": "How to Implement Google Authentication and Authorization in a Server-Side Blazor App",
+      "title": "Ankit Sharma",
+      "image": "https://images.unsplash.com/photo-1562752870-b7dae0909b8d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/how-to-implement-google-authentication-and-authorization-in-server-side-blazor-app/"
+    },
+    {
+      "name": "The Definitive TypeScript Handbook",
+      "title": "Gustavo Azevedo",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/ts-1.png",
+      "link": "https://www.freecodecamp.org/news/the-definitive-typescript-handbook/"
+    },
+    {
+      "name": "Learn how to use GraphQL with Laravel and Vue.js by building a book recommendation app",
+      "title": "Beau Carnes",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/graphqllaravel.png",
+      "link": "https://www.freecodecamp.org/news/graphql-with-laravel-and-vue-js/"
+    },
+    {
+      "name": "My personal favorite Visual Studio Code extensions",
+      "title": "Adrian Hajdin",
+      "image": "https://cdn-images-1.medium.com/max/800/1*8rwhNK83OnGW-WQoz428Hw.jpeg",
+      "link": "https://www.freecodecamp.org/news/visual-studio-code-extensions-ff7f29b71341/"
+    },
+    {
+      "name": "Want to learn to build websites? Try our free HTML & CSS crash course",
+      "title": "Per Harald Borgen",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/Want_to_learn_to_build_websites__Try_our_free_HTML__-CSS_crash_course.jpg",
+      "link": "https://www.freecodecamp.org/news/want-to-learn-to-build-websites-try-our-free-4-hour-crash-course-on-html-css-2/"
+    },
+    {
+      "name": "How to 10x Your Productivity by Creating a Process",
+      "title": "Yazeed Bzadough",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/vegeta-process-web.png",
+      "link": "https://www.freecodecamp.org/news/10x-your-productivity-by-creating-a-process/"
+    },
+    {
+      "name": "Broadcast Receivers For Beginners",
+      "title": "Tomer Ben Rachel",
+      "image": "https://images.unsplash.com/photo-1528499908559-b8e4e8b89bda?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/broadcast-receivers-for-beginners/"
+    },
+    {
+      "name": "The Practical Checklist for Getting a Job",
+      "title": "JavaScript Joe",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/andrew-neel-cckf4TsHAuw-unsplash.jpg",
+      "link": "https://www.freecodecamp.org/news/the-practical-checklist-for-getting-a-job/"
+    },
+    {
+      "name": "Scrum - the hard parts",
+      "title": "Bertil Muth",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/action-adult-adventure-1058958.jpg",
+      "link": "https://www.freecodecamp.org/news/scrum-the-hard-parts/"
+    },
+    {
+      "name": "All about TypeScript Static Members | TypeScript OOP",
+      "title": "Khalil Stemmler",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/typescript-blog-banner-2.png",
+      "link": "https://www.freecodecamp.org/news/all-about-typescript-static-members-typescript-oop/"
+    },
+    {
+      "name": "How to Generate Dynamic PDFs Using React and NodeJS",
+      "title": "Adrian Hajdin",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/how-to-generate-dynamic-pdfs-using-react-and-nodejs-eac9e9cb4dde/"
+    },
+    {
+      "name": "Obtain Historical Weather Forecast data in CSV format using Python",
+      "title": "Ekapope Viriyakovithya",
+      "image": "https://images.unsplash.com/photo-1522735338363-cc7313be0ae0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/obtain-historical-weather-forecast-data-in-csv-format-using-python/"
+    },
+    {
+      "name": "How to gracefully use Environment Variables in a React Native app",
+      "title": "Aman Mittal",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/Copy-of-Expo-and-React-Native-series.png",
+      "link": "https://www.freecodecamp.org/news/how-to-gracefully-use-environment-variables-in-a-react-native-app/"
+    },
+    {
+      "name": "This Is The Most Effective Post-Interview Thank You Email",
+      "title": "Austin Belcak",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/Post-Interview-Thank-You-Email-Featured-Image-1-736x414.jpg",
+      "link": "https://www.freecodecamp.org/news/interview-thank-you-email/"
+    },
+    {
+      "name": "How to Send Secret Messages",
+      "title": "Megan Kaczanowski",
+      "image": "https://images.unsplash.com/photo-1445633743309-b60418bedbf2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/how-to-send-secret-messages/"
+    },
+    {
+      "name": "Async Generators as an alternative to State Management",
+      "title": "Vitalii Akimov",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/async-state.png",
+      "link": "https://www.freecodecamp.org/news/async-generators-as-an-alternative-to-state-management/"
+    },
+    {
+      "name": "The Fall and Rise of Code Radio",
+      "title": "Quincy Larson",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/maxresdefault--3-.jpg",
+      "link": "https://www.freecodecamp.org/news/the-fall-and-rise-of-code-radio/"
+    },
+    {
+      "name": "Learn Node.js and start executing JavaScript outside of the browser",
+      "title": "Beau Carnes",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/NODE.png",
+      "link": "https://www.freecodecamp.org/news/getting-started-with-node-js/"
+    },
+    {
+      "name": "Harvard CS50's David Malan and Colton Ogden share the history of their free online Computer Science course - Podcast",
+      "title": "Quincy Larson",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/543c41356da811441dee1336-1334-667.jpg",
+      "link": "https://www.freecodecamp.org/news/podcast-harvard-cs50s-david-malan-and-colton-ogden-on-computer-science/"
+    },
+    {
+      "name": "Pushing to Github - made simple enough for Poets",
+      "title": "Usheninte Dangana",
+      "image": "https://images.unsplash.com/photo-1561164517-686f490ee86d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/pushing-to-github-made-simple-enough-for-poets/"
+    },
+    {
+      "name": "Brilliant Add-on For Static Sites That Will Make You Dance",
+      "title": "Jared Wolff",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/Copy-of-Static-Site-Docker-Recipes-2.jpg",
+      "link": "https://www.freecodecamp.org/news/how-to-setup-worry-free-blog-comments-in-20-simple-steps/"
+    },
+    {
+      "name": "How To Master Async/Await With This Real World Example",
+      "title": "Adrian Hajdin",
+      "image": "https://cdn-images-1.medium.com/max/800/1*2Nco5zYP_Xv-5-FgL6kCuw.png",
+      "link": "https://www.freecodecamp.org/news/how-to-master-async-await-with-this-real-world-example-19107e7558ad/"
+    },
+    {
+      "name": "What a developer goes through when looking for a second job",
+      "title": "Tomer Ben Rachel",
+      "image": "https://cdn-images-1.medium.com/max/800/1*30XhbFnwwQqdadyyp5cNWA.jpeg",
+      "link": "https://www.freecodecamp.org/news/what-a-developer-goes-through-when-looking-for-a-second-job-f061c26ffd8f/"
+    },
+    {
+      "name": "Everything you need to know about Insertion Sort algorithm",
+      "title": "Sanjula Madurapperuma",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/06/image-44-1.png",
+      "link": "https://www.freecodecamp.org/news/everything-you-need-to-know-about-insertion-sort-algorithm/"
+    },
+    {
+      "name": "Simplicity is sophistication",
+      "title": "Srinivasan C",
+      "image": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/simplicity/"
+    },
+    {
+      "name": "What Exactly is a Palindrome - a  Visual Explanation",
+      "title": "Clark Jason Ngo",
+      "image": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/cjn-palindrome-visualized/"
+    },
+    {
+      "name": "Assisted script writing, with Pychronia Tools",
+      "title": "Pakal de Bonchamp",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/pychroniatools.png",
+      "link": "https://www.freecodecamp.org/news/assisted-script-writing-with-pychronia-tools/"
+    },
+    {
+      "name": "Learn the basics of Linux and how it can be used by ethical hackers",
+      "title": "Beau Carnes",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/linux.png",
+      "link": "https://www.freecodecamp.org/news/linux-for-ethical-hackers-course/"
+    },
+    {
+      "name": "Building Python Data Science Container using Docker",
+      "title": "Faizan Bashir",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/1_oYWC2Wnc4Nf_mH0WL3ep_w.jpeg",
+      "link": "https://www.freecodecamp.org/news/building-python-data-science-container-using-docker/"
+    },
+    {
+      "name": "Building Serverless Contact Form For Static Websites",
+      "title": "Faizan Bashir",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/1_lYvXrG9rcgLg42weUyOfyg.jpeg",
+      "link": "https://www.freecodecamp.org/news/building-serverless-contact-form-for-static-websites/"
+    },
+    {
+      "name": "What is Serverless Architecture? What are its Pros and Cons?",
+      "title": "Faizan Bashir",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/1_16x1_xEclXT4MB0FN_xr2g.jpeg",
+      "link": "https://www.freecodecamp.org/news/what-is-serverless-architecture-what-are-its-pros-and-cons/"
+    },
+    {
+      "name": "A Practical Introduction to Docker Compose",
+      "title": "Faizan Bashir",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/1_JK4VDnsrF6YnAb2nyhMsdQ-2.png",
+      "link": "https://www.freecodecamp.org/news/a-practical-introduction-to-docker-compose/"
+    },
+    {
+      "name": "Docker Data Containers",
+      "title": "Faizan Bashir",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/1_AUiK5PwnsPG_xaT9jcVoSA-2.jpeg",
+      "link": "https://www.freecodecamp.org/news/docker-data-containers/"
+    },
+    {
+      "name": "Cleaning up Docker",
+      "title": "Faizan Bashir",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/1_C6BkVKRpoVK_Pq1TLqlSkQ-3.png",
+      "link": "https://www.freecodecamp.org/news/cleaning-up-docker/"
+    },
+    {
+      "name": "Building colorful, springy components using React Spring and Tinycolor",
+      "title": "Stephen McLean",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/philip-veater-AKmdNgzZESM-unsplash-1.jpg",
+      "link": "https://www.freecodecamp.org/news/building-colorful-springy-components-using-react-spring-and-tinycolor/"
+    },
+    {
+      "name": "Deeply Understand Currying in 7 Minutes",
+      "title": "Yazeed Bzadough",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/snape-currying-in-7-minutes.jpeg",
+      "link": "https://www.freecodecamp.org/news/deeply-understand-currying-in-7-minutes/"
+    },
+    {
+      "name": "Video formats for the web, a short guide  to help you choose",
+      "title": "Anton Garcia Diaz",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/photo-1440404653325-ab127d49abc1-1.jpg",
+      "link": "https://www.freecodecamp.org/news/video-formats-for-the-web/"
+    },
+    {
+      "name": "Hands on with Publii, a Free Static CMS Generating HTML Sites",
+      "title": "Francois Lanthier Nadeau",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/Publii-Static-CMS-2.png",
+      "link": "https://www.freecodecamp.org/news/hands-on-with-publii-a-free-static-cms-generating-html-sites/"
+    },
+    {
+      "name": "No, Getters and Setters in TypeScript & JavaScript aren't useless",
+      "title": "Khalil Stemmler",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/typescript-blog-banner-1.png",
+      "link": "https://www.freecodecamp.org/news/typescript-javascript-getters-and-setters-are-they-useless/"
+    },
+    {
+      "name": "Making Sense of Azure Durable Functions",
+      "title": "Mikhail Shilkov",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/1-0R7Wy1EJa59bvMNMHJaM4A.jpeg",
+      "link": "https://www.freecodecamp.org/news/making-sense-of-azure-durable-functions/"
+    },
+    {
+      "name": "I failed my AWS Developer Exam. What now?",
+      "title": "Clark Jason Ngo",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/-Fail-early-fail-often-but.jpg",
+      "link": "https://www.freecodecamp.org/news/cjn-i-failed-my-aws-developer-exam/"
+    },
+    {
+      "name": "Azure Logic Apps Use Case – Black Friday",
+      "title": "Nadeem Ahamed",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/black-friday-Banner-image.png",
+      "link": "https://www.freecodecamp.org/news/azure-logic-apps-use-case-black-friday/"
+    },
+    {
+      "name": "Data quality in the era of Artificial Intelligence",
+      "title": "George Krasadakis",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg",
+      "link": "https://www.freecodecamp.org/news/data-quality-era-of-ai/"
+    },
+    {
+      "name": "The 3 biggest user story myths",
+      "title": "Bertil Muth",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/pexels-photo-415137-1024x768.jpeg",
+      "link": "https://www.freecodecamp.org/news/the-3-biggest-user-story-myths/"
+    }
+  ],
+  "post": []
+}
