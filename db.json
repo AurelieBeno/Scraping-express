@@ -1,6 +1,36 @@
 {
   "scrappedData": [
     {
+      "name": "The one thing between you and your dream job — coding interview!",
+      "title": "Srinivasan C",
+      "image": "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/the-one-thing-between-you-and-your-dream-job-coding-interview/"
+    },
+    {
+      "name": "A simple Git guide and cheat sheet for open source contributors",
+      "title": "Saheed Oladele",
+      "image": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/"
+    },
+    {
+      "name": "How to create a pagination component",
+      "title": "Florin Pop",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/how-to-create-a-pagination.png",
+      "link": "https://www.freecodecamp.org/news/how-to-create-a-pagination-component/"
+    },
+    {
+      "name": "Linux Server Virtualization: the basics",
+      "title": "David Clinton",
+      "image": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+      "link": "https://www.freecodecamp.org/news/linux-server-virtualization-the-basics/"
+    },
+    {
+      "name": "Dev: The Career Changer's advantage - Part 2",
+      "title": "Zubin Pratap",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/download-1.jpeg",
+      "link": "https://www.freecodecamp.org/news/career-changers-advantage-part2/"
+    },
+    {
       "name": "Testing React Components: Complete Guide",
       "title": "Mohammad Iqbal",
       "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/photo-1562679817-2aac4f5581ec.jpg",
@@ -269,37 +299,6 @@
       "title": "Khalil Stemmler",
       "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/typescript-blog-banner-1.png",
       "link": "https://www.freecodecamp.org/news/typescript-javascript-getters-and-setters-are-they-useless/"
-    },
-    {
-      "name": "Making Sense of Azure Durable Functions",
-      "title": "Mikhail Shilkov",
-      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/1-0R7Wy1EJa59bvMNMHJaM4A.jpeg",
-      "link": "https://www.freecodecamp.org/news/making-sense-of-azure-durable-functions/"
-    },
-    {
-      "name": "I failed my AWS Developer Exam. What now?",
-      "title": "Clark Jason Ngo",
-      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/-Fail-early-fail-often-but.jpg",
-      "link": "https://www.freecodecamp.org/news/cjn-i-failed-my-aws-developer-exam/"
-    },
-    {
-      "name": "Azure Logic Apps Use Case – Black Friday",
-      "title": "Nadeem Ahamed",
-      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/black-friday-Banner-image.png",
-      "link": "https://www.freecodecamp.org/news/azure-logic-apps-use-case-black-friday/"
-    },
-    {
-      "name": "Data quality in the era of Artificial Intelligence",
-      "title": "George Krasadakis",
-      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg",
-      "link": "https://www.freecodecamp.org/news/data-quality-era-of-ai/"
-    },
-    {
-      "name": "The 3 biggest user story myths",
-      "title": "Bertil Muth",
-      "image": "https://www.freecodecamp.org/news/content/images/size/w600/2019/07/pexels-photo-415137-1024x768.jpeg",
-      "link": "https://www.freecodecamp.org/news/the-3-biggest-user-story-myths/"
     }
-  ],
-  "post": []
+  ]
 }
