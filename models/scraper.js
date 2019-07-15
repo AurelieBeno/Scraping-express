@@ -24,10 +24,10 @@ async function scrape() {
     let name = await data.$eval("h2.post-card-title", s =>
       s.textContent.trim()
     );
-    let link = await data.$eval(
-      "a.post-card-image-link",
-      s => s.href
-    );
+    // let link = await data.$eval(
+    //   "a.post-card-image-link",
+    //   s => s.href
+    // );
     let image = await data.$eval(
       "img.post-card-image",
       s => s.src
@@ -36,7 +36,7 @@ async function scrape() {
       s.textContent.trim()
     );
 
-    scrappedData.push({ name, title, image, link });
+    scrappedData.push({ name, title, image });
   }
 
   browser.close();
@@ -49,20 +49,39 @@ async function scrape() {
 }
 
 async function runCron() {
-  const beforeSaving = [];
   await scrape();
 
-  const newState = { scrappedData };
-  db.setState(newState);
+  const beforeSaving = [];
+  // Array.prototype.diff = scrappedData
+  //   .filter(x => myDb.includes(x))
+  //   .push(beforeSaving);
 
-  await db
-    .get("post")
-    .push({
-      dateOfScrapping: Date.now(),
-      data: beforeSaving
-    })
-    .write();
-  console.log("Done");
+  let dataValue = db.get("scrappedData").value();
+  // .map(post => post.name);
+
+  datas = dataValue.concat(scrappedData);
+  console.log(datas.length);
+  let foo = new Map();
+  for (const c of datas) {
+    foo.set(c.name, c);
+  }
+  // Array avec titre unique ancient et nouveau
+  let final = [...foo.values()];
+  // ************TO DO ********* *
+  // Verifier dataValue.length et final.length
+  //   si length est égal alors pas de nouveau post
+  // Si different push dans arr result
+  // const newState = { scrappedData };
+  // db.setState(newState);
+
+  console.log("TEST COMBINED", final.length);
+  // console.log("RESULT", result);
+
+  // await db
+  //   .get("scrappedData")
+  //   .push({ result })
+  //   .write();
+  // console.log("Done");
 }
 
 module.exports = { scrape, runCron };
