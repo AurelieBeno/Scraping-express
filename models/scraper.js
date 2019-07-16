@@ -50,23 +50,10 @@ async function scrape() {
 
 async function runCron() {
   await scrape();
-
-  // const beforeSaving = [];
-
   let dataValue = db.get("scrappedData").value();
-  // .map(post => post.name);
-
-  // datas = dataValue.concat(scrappedData);
-  // console.log(datas.length);
-  // let foo = new Map();
-  // for (const c of datas) {
-  //   foo.set(c.name, c);
-  // }
-  // Array avec titre unique ancient et nouveau
-  // let final = [...foo.values()];
   console.log("dataValue", dataValue.length);
 
-  function comparer(otherArray) {
+  function findNewPost(otherArray) {
     return function(current) {
       return (
         otherArray.filter(function(other) {
@@ -75,33 +62,19 @@ async function runCron() {
       );
     };
   }
-  const dataToAdd = scrappedData.filter(
-    comparer(dataValue)
+  const dataToAdd = await scrappedData.filter(
+    findNewPost(dataValue)
   );
-
   console.log("RESULT ", dataToAdd.length);
-  // dataValue.length === final.length
-  //   ? "Pas de nouveau post "
-  //   : final;
-  // ************TO DO ********* *
-  // Verifier dataValue.length et final.length
-  //   si length est égal alors pas de nouveau post
-  // Si different push dans arr result
-  // const newState = { scrappedData };
-  // db.setState(newState);
 
-  // console.log("TEST COMBINED", final.length);
-  // console.log("RESULT", result);
+  // TO DO
+  //         Ajouter new post sans [ ] || Voir comment dataToAdd ni array ni objet
+
   await db
     .get("scrappedData")
     .push(dataToAdd)
     .write();
   console.log("Done");
-  // await db
-  //   .get("scrappedData")
-  //   .push({ result })
-  //   .write();
-  // console.log("Done");
 }
 
 module.exports = { scrape, runCron };
